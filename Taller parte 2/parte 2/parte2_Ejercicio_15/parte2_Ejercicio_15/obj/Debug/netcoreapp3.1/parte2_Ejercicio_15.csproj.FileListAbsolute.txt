@@ -1,0 +1,13 @@
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\bin\Debug\netcoreapp3.1\parte2_Ejercicio_15.exe
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\bin\Debug\netcoreapp3.1\parte2_Ejercicio_15.deps.json
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\bin\Debug\netcoreapp3.1\parte2_Ejercicio_15.runtimeconfig.json
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\bin\Debug\netcoreapp3.1\parte2_Ejercicio_15.runtimeconfig.dev.json
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\bin\Debug\netcoreapp3.1\parte2_Ejercicio_15.dll
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\bin\Debug\netcoreapp3.1\parte2_Ejercicio_15.pdb
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.csprojAssemblyReference.cache
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.AssemblyInfo.cs
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.dll
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.pdb
+C:\Users\DAVID\source\repos\parte2_Ejercicio_15\parte2_Ejercicio_15\obj\Debug\netcoreapp3.1\parte2_Ejercicio_15.genruntimeconfig.cache

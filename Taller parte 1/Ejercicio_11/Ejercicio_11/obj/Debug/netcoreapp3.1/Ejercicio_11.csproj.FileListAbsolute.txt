@@ -1,0 +1,13 @@
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\bin\Debug\netcoreapp3.1\Ejercicio_11.exe
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\bin\Debug\netcoreapp3.1\Ejercicio_11.deps.json
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\bin\Debug\netcoreapp3.1\Ejercicio_11.runtimeconfig.json
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\bin\Debug\netcoreapp3.1\Ejercicio_11.runtimeconfig.dev.json
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\bin\Debug\netcoreapp3.1\Ejercicio_11.dll
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\bin\Debug\netcoreapp3.1\Ejercicio_11.pdb
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.csprojAssemblyReference.cache
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.AssemblyInfo.cs
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.dll
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.pdb
+C:\Users\DAVID\source\repos\Ejercicio_11\Ejercicio_11\obj\Debug\netcoreapp3.1\Ejercicio_11.genruntimeconfig.cache

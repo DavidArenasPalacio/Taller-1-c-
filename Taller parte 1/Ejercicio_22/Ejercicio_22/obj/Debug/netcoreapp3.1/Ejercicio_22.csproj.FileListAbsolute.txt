@@ -1,0 +1,13 @@
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\bin\Debug\netcoreapp3.1\Ejercicio_22.exe
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\bin\Debug\netcoreapp3.1\Ejercicio_22.deps.json
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\bin\Debug\netcoreapp3.1\Ejercicio_22.runtimeconfig.json
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\bin\Debug\netcoreapp3.1\Ejercicio_22.runtimeconfig.dev.json
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\bin\Debug\netcoreapp3.1\Ejercicio_22.dll
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\bin\Debug\netcoreapp3.1\Ejercicio_22.pdb
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.csprojAssemblyReference.cache
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.AssemblyInfoInputs.cache
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.AssemblyInfo.cs
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.dll
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.pdb
+C:\Users\DAVID\source\repos\Ejercicio_22\Ejercicio_22\obj\Debug\netcoreapp3.1\Ejercicio_22.genruntimeconfig.cache
