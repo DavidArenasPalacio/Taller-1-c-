@@ -82,7 +82,7 @@ namespace parte4
             {
                 int contPrimo = 0, cont = 0;
 
-                for (int i = 2; i  <= num; i++)
+                for (int i = 2; i <= num; i++)
                 {
 
                     for (int j = 1; j <= i; j++)
@@ -103,7 +103,7 @@ namespace parte4
             static double sueldoMaximo(int num)
             {
                 double sueldoMaximo = int.MinValue;
-                for(int i = 0; i  < num; i++) 
+                for (int i = 0; i < num; i++)
                 {
                     Console.Write($"Ingrese  el  sueldo {i + 1}: ");
                     double saldo = double.Parse(Console.ReadLine());
@@ -183,17 +183,15 @@ namespace parte4
                 else if (decenas == 9)
                     decena = "noventa";
 
-                if (resultado != "" && decena != "")
+                if ((resultado != "" && resultado != "cero" ) && decena != "")
+                {
+                       resultado = $"{decena} y {resultado}"; 
+                }else
                 {
                     if (decena != "")
                     {
-                        resultado = $"{decena} y {resultado}";
-                    }
-                    else
-                    {
                         resultado = decena;
                     }
-
                 }
                 return resultado;
             }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DAVID\\source\\repos\\parte3\\parte3\\parte3.csproj",
+      "projectUniqueName": "C:\\Users\\DAVID\\Desktop\\Algoritmos_Taller1\\Taller parte 2\\parte 3\\parte3\\parte3\\parte3.csproj",
       "projectName": "parte3",
-      "projectPath": "C:\\Users\\DAVID\\source\\repos\\parte3\\parte3\\parte3.csproj",
+      "projectPath": "C:\\Users\\DAVID\\Desktop\\Algoritmos_Taller1\\Taller parte 2\\parte 3\\parte3\\parte3\\parte3.csproj",
       "packagesPath": "C:\\Users\\DAVID\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DAVID\\source\\repos\\parte3\\parte3\\obj\\",
+      "outputPath": "C:\\Users\\DAVID\\Desktop\\Algoritmos_Taller1\\Taller parte 2\\parte 3\\parte3\\parte3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DAVID\\AppData\\Roaming\\NuGet\\NuGet.Config",

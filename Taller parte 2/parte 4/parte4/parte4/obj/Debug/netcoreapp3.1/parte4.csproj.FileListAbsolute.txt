@@ -11,3 +11,16 @@ C:\Users\DAVID\source\repos\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.csproj.
 C:\Users\DAVID\source\repos\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.dll
 C:\Users\DAVID\source\repos\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.pdb
 C:\Users\DAVID\source\repos\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.genruntimeconfig.cache
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\bin\Debug\netcoreapp3.1\parte4.exe
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\bin\Debug\netcoreapp3.1\parte4.deps.json
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\bin\Debug\netcoreapp3.1\parte4.runtimeconfig.json
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\bin\Debug\netcoreapp3.1\parte4.runtimeconfig.dev.json
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\bin\Debug\netcoreapp3.1\parte4.dll
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\bin\Debug\netcoreapp3.1\parte4.pdb
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.csprojAssemblyReference.cache
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.AssemblyInfoInputs.cache
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.AssemblyInfo.cs
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.csproj.CoreCompileInputs.cache
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.dll
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.pdb
+C:\Users\DAVID\Desktop\Algoritmos_Taller1\Taller parte 2\parte 4\parte4\parte4\obj\Debug\netcoreapp3.1\parte4.genruntimeconfig.cache

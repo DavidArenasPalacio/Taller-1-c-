@@ -192,18 +192,18 @@ namespace parte3
             else if (decenas == 9)
                 decena = "noventa";
 
-            if (resultado != "" && decena != "")
+            if ((resultado != "" && resultado != "cero") && decena != "")
+            {
+                resultado = $"{decena} y {resultado}";
+            }
+            else
             {
                 if (decena != "")
                 {
-                    resultado = $"{decena} y {resultado}";
-                }
-                else
-                {
                     resultado = decena;
                 }
-
             }
+
             return resultado;
         }
 
